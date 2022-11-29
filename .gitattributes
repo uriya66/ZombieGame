@@ -1,6 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 
-**/shaders/* linguist-generated
-**cginc/* linguist-generated
 Assets/TextMesh?Pro/* linguist-vendored

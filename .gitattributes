@@ -1,8 +1,7 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 
-Assets/TextMesh?Pro/* linguist-vendored
-Zombie/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader/* linguist-vendored
+Zombie/Assets/TextMesh Pro/Shaders/* linguist-vendored
 **/shaders/* linguist-vendored
 **/cginc/* linguist-vendored
 

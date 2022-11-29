@@ -2,7 +2,7 @@
 * text=auto
 
 Zombie/Assets/TextMesh Pro/Shaders/* linguist-vendored
-**/shaders/* linguist-vendored
+**/Shaders/* linguist-vendored
 **/cginc/* linguist-vendored
 
 # text files

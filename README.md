@@ -2,7 +2,7 @@
 A zombie shooting game, each round the difficulty level increases.
 The zombies will surprise you!
 
-You can download the "ZombieGame.7z" file and play it on your PC.
+You can download the "ZombieGame.7z" file and play it on your own PC.
 
 Video:
 
